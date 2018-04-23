@@ -663,8 +663,15 @@ HTTPS 和 SSL
 ### 参考
 
 \[1\]\[https://developer.android.com/training/articles/security-ssl.html\](https://developer.android.com/training/articles/security-ssl.html)
+
 \[2\]\[https://www.cnblogs.com/liyiran/p/7011317.html\](https://www.cnblogs.com/liyiran/p/7011317.html)
+
 \[3\]\[https://jaq.alibaba.com/community/art/show?articleid=545\](https://jaq.alibaba.com/community/art/show?articleid=545)
-\[4\]\[http://liuwangshu.cn/tags/Android%E7%BD%91%E7%BB%9C%E7%BC%96%E7%A8%8B/\](http://liuwangshu.cn/tags/Android%E7%BD%91%E7%BB%9C%E7%BC%96%E7%A8%8B/)\[5\]\[https://blog.csdn.net/sbsujjbcy/article/details/45568053\](https://blog.csdn.net/sbsujjbcy/article/details/45568053)
+
+\[4\]\[http://liuwangshu.cn/tags/Android%E7%BD%91%E7%BB%9C%E7%BC%96%E7%A8%8B/\](http://liuwangshu.cn/tags/Android%E7%BD%91%E7%BB%9C%E7%BC%96%E7%A8%8B/)
+
+\[5\]\[https://blog.csdn.net/sbsujjbcy/article/details/45568053\](https://blog.csdn.net/sbsujjbcy/article/details/45568053)
+
 \[6\]\[http://find-sec-bugs.github.io/bugs.htm\](http://find-sec-bugs.github.io/bugs.htm)
+
 \[7\]\[https://blog.it-securityguard.com/the-stony-path-of-android-%F0%9F%A4%96-bug-bounty-bypassing-certificate-pinning/\](https://blog.it-securityguard.com/the-stony-path-of-android-%F0%9F%A4%96-bug-bounty-bypassing-certificate-pinning/)
