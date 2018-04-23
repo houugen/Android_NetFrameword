@@ -1,3 +1,15 @@
+> 工程文件说明：
+> 
+> apk：使用不同网络框架的案例app
+> 
+> cer：实验用自签名证书，可以直接使用server.crt配合webpy
+> 
+> demo：Android_HTTP_demo（HttpClient、HttpURLConnect、Volley、OkHttp及Retrofit），WebviewTest（Webview）
+> 
+> jar：各第三方框架的jar包或源码
+> 
+> server：python写的server，webpytest.py（带自签名证书server），webpytest2.py（简单接受get和post请求的server）
+
 -   [0x00 目的](#x00-目的)
 -   [0x01 HttpClient &
     HttpURLConnection](#x01-httpclient-httpurlconnection)
@@ -90,6 +102,7 @@ HttpURLConnection con = (HttpURLConnection) mUrl.openConnection(proxy);
 ```
 
 > HttpClient 不支持 SOCKS ![Alt text } left](./images/1523791429896.png)
+> 
 > HttpURLConnectino 支持 Proxy.Type.SOCKS
 
 使用系统代理
@@ -478,6 +491,7 @@ call.enqueue(new Callback<String>() {
 ```
 
 > 使用webpy搭建服务器，代码详见demo（webpytest2.py）
+> 
 > 实例参见咪咕TV（miguTV\_3.3.0.apk）
 
 #### 自签名证书
